@@ -15,17 +15,14 @@
 <div class="container">
   <ul class="nav">
     <li class="nav-item">
-      <a class="nav-link" href="/">Home</a>
+      <a class="nav-link" href="/dashboard">Home</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="/additems">Add Items</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="/register">Add User</a>
+      <a class="nav-link" href="/createorder">Create List</a>
     </li>
     <!-- <li class="nav-item">
-      <a class="nav-link" href="/a_orderlist">Order List</a>
-    </li> -->
+        <a class="nav-link" href="/orderlist">Order List</a>
+      </li> -->
     <li class="nav-item">
       <a class="nav-link" href="/logout">Log Out</a>
     </li>
